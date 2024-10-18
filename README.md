@@ -13,3 +13,4 @@ Projects i needed for academic purposes with some cool spectogram visulaization 
 - **Spectrograms**
 - **Decomposition of a Chirp Signal** to determine the spectrum of each mode
 - **Signal Denoising**
+and some basic ui for most of the problems
